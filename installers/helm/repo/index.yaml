@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  postgres-operator:
+  - apiVersion: v2
+    appVersion: 4.6.0-beta.1
+    created: "2021-01-06T15:50:49.724473005+05:30"
+    description: Crunchy PostgreSQL Operator Helm chart for Kubernetes
+    digest: ede266bc2aa9bd6234105abb5cf5bfffa5411952d69e3abf721c23e334607689
+    home: https://github.com/CrunchyData/postgres-operator
+    icon: https://github.com/CrunchyData/postgres-operator/raw/master/crunchy_logo.png
+    keywords:
+    - PostgreSQL
+    - Operator
+    - Database
+    - Postgres
+    - SQL
+    - NoSQL
+    - RDBMS
+    name: postgres-operator
+    type: application
+    urls:
+    - postgres-operator-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-01-06T15:50:49.718768933+05:30"
